@@ -170,3 +170,4 @@ C:\Users\A l e x a n d r e\source\repos\EmprestimosDeLivros\EmprestimosDeLivros\
 C:\Users\A l e x a n d r e\source\repos\EmprestimosDeLivros\EmprestimosDeLivros\obj\Debug\net8.0\EmprestimosDeLivros.pdb
 C:\Users\A l e x a n d r e\source\repos\EmprestimosDeLivros\EmprestimosDeLivros\obj\Debug\net8.0\EmprestimosDeLivros.genruntimeconfig.cache
 C:\Users\A l e x a n d r e\source\repos\EmprestimosDeLivros\EmprestimosDeLivros\obj\Debug\net8.0\ref\EmprestimosDeLivros.dll
+C:\Users\A l e x a n d r e\source\repos\EmprestimosDeLivros\EmprestimosDeLivros\obj\Debug\net8.0\EmprestimosDeLivros.sourcelink.json

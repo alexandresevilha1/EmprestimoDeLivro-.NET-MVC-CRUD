@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fxYRa60uO1WtOV9Z5MxNlJX0B5rIVrbpUrZ5tY/5rJE=",
+  "Hash": "5qlBfaAoinEd5EJQzf4TJMj3MFnOSB0PvaY5h5PG7/0=",
   "Source": "EmprestimosDeLivros",
   "BasePath": "_content/EmprestimosDeLivros",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EmprestimosDeLivros.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\wwwroot\\css\\materia.css",
+      "SourceId": "EmprestimosDeLivros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\wwwroot\\",
+      "BasePath": "_content/EmprestimosDeLivros",
+      "RelativePath": "css/materia#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wismq79cuy",
+      "Integrity": "GGCykcQiTzH+zwU0XxYr372zD7/+6fEts2Pafp8x4Jo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\materia.css"
     },
     {
       "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\wwwroot\\css\\site.css",
@@ -1320,6 +1341,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/materia.css",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\wwwroot\\css\\materia.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GGCykcQiTzH+zwU0XxYr372zD7/+6fEts2Pafp8x4Jo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 21:29:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GGCykcQiTzH+zwU0XxYr372zD7/+6fEts2Pafp8x4Jo="
+        }
+      ]
+    },
+    {
+      "Route": "css/materia.wismq79cuy.css",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\wwwroot\\css\\materia.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GGCykcQiTzH+zwU0XxYr372zD7/+6fEts2Pafp8x4Jo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 21:29:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wismq79cuy"
+        },
+        {
+          "Name": "label",
+          "Value": "css/materia.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GGCykcQiTzH+zwU0XxYr372zD7/+6fEts2Pafp8x4Jo="
+        }
+      ]
+    },
     {
       "Route": "css/site.c2tiyv64ts.css",
       "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\wwwroot\\css\\site.css",

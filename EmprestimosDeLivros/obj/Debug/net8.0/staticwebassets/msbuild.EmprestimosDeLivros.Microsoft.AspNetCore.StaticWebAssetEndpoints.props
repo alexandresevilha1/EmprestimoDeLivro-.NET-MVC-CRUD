@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/EmprestimosDeLivros/css/materia.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\materia.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GGCykcQiTzH\u002BzwU0XxYr372zD7/\u002B6fEts2Pafp8x4Jo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"308720"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GGCykcQiTzH\u002BzwU0XxYr372zD7/\u002B6fEts2Pafp8x4Jo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 21:29:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmprestimosDeLivros/css/materia.wismq79cuy.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\materia.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wismq79cuy"},{"Name":"integrity","Value":"sha256-GGCykcQiTzH\u002BzwU0XxYr372zD7/\u002B6fEts2Pafp8x4Jo="},{"Name":"label","Value":"_content/EmprestimosDeLivros/css/materia.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"308720"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GGCykcQiTzH\u002BzwU0XxYr372zD7/\u002B6fEts2Pafp8x4Jo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 21:29:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EmprestimosDeLivros/css/site.c2tiyv64ts.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
