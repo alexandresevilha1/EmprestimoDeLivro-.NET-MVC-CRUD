@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2392E1A5-5D17-48E6-A9FC-71C6FF2658D2}|EmprestimosDeLivros\\EmprestimosDeLivros.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\emprestimosdelivros\\emprestimosdelivros\\views\\login\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2392E1A5-5D17-48E6-A9FC-71C6FF2658D2}|EmprestimosDeLivros\\EmprestimosDeLivros.csproj|solutionrelative:emprestimosdelivros\\views\\login\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2392E1A5-5D17-48E6-A9FC-71C6FF2658D2}|EmprestimosDeLivros\\EmprestimosDeLivros.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\emprestimosdelivros\\emprestimosdelivros\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2392E1A5-5D17-48E6-A9FC-71C6FF2658D2}|EmprestimosDeLivros\\EmprestimosDeLivros.csproj|solutionrelative:emprestimosdelivros\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2392E1A5-5D17-48E6-A9FC-71C6FF2658D2}|EmprestimosDeLivros\\EmprestimosDeLivros.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\emprestimosdelivros\\emprestimosdelivros\\services\\senhaservice\\senhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2392E1A5-5D17-48E6-A9FC-71C6FF2658D2}|EmprestimosDeLivros\\EmprestimosDeLivros.csproj|solutionrelative:emprestimosdelivros\\services\\senhaservice\\senhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2392E1A5-5D17-48E6-A9FC-71C6FF2658D2}|EmprestimosDeLivros\\EmprestimosDeLivros.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\emprestimosdelivros\\emprestimosdelivros\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2392E1A5-5D17-48E6-A9FC-71C6FF2658D2}|EmprestimosDeLivros\\EmprestimosDeLivros.csproj|solutionrelative:emprestimosdelivros\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392E1A5-5D17-48E6-A9FC-71C6FF2658D2}|EmprestimosDeLivros\\EmprestimosDeLivros.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\emprestimosdelivros\\emprestimosdelivros\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2392E1A5-5D17-48E6-A9FC-71C6FF2658D2}|EmprestimosDeLivros\\EmprestimosDeLivros.csproj|solutionrelative:emprestimosdelivros\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392E1A5-5D17-48E6-A9FC-71C6FF2658D2}|EmprestimosDeLivros\\EmprestimosDeLivros.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\emprestimosdelivros\\emprestimosdelivros\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2392E1A5-5D17-48E6-A9FC-71C6FF2658D2}|EmprestimosDeLivros\\EmprestimosDeLivros.csproj|solutionrelative:emprestimosdelivros\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Registrar.cshtml",
-              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\Views\\Login\\Registrar.cshtml",
-              "RelativeDocumentMoniker": "EmprestimosDeLivros\\Views\\Login\\Registrar.cshtml",
-              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\Views\\Login\\Registrar.cshtml",
-              "RelativeToolTip": "EmprestimosDeLivros\\Views\\Login\\Registrar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmprestimosDeLivros\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmprestimosDeLivros\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:49:26.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmprestimosDeLivros\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmprestimosDeLivros\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T15:40:23.798Z",
+              "WhenOpened": "2025-03-13T01:38:33.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SenhaService.cs",
-              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\Services\\SenhaService\\SenhaService.cs",
-              "RelativeDocumentMoniker": "EmprestimosDeLivros\\Services\\SenhaService\\SenhaService.cs",
-              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\Services\\SenhaService\\SenhaService.cs",
-              "RelativeToolTip": "EmprestimosDeLivros\\Services\\SenhaService\\SenhaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Title": "EmprestimoController.cs",
+              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\Controllers\\EmprestimoController.cs",
+              "RelativeDocumentMoniker": "EmprestimosDeLivros\\Controllers\\EmprestimoController.cs",
+              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\Controllers\\EmprestimoController.cs",
+              "RelativeToolTip": "EmprestimosDeLivros\\Controllers\\EmprestimoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T15:34:22.721Z",
+              "WhenOpened": "2025-03-13T01:33:28.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "EmprestimosDeLivros\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "EmprestimosDeLivros\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:26:04.393Z",
               "EditorCaption": ""
             }
           ]

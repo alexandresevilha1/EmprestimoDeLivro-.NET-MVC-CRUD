@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4x2kKpyFRxY=",
+  "dgSpecHash": "Xlow4wdmn5g=",
   "success": true,
   "projectFilePath": "C:\\Users\\A l e x a n d r e\\source\\repos\\EmprestimosDeLivros\\EmprestimosDeLivros\\EmprestimosDeLivros.csproj",
   "expectedPackageFiles": [
@@ -54,6 +54,7 @@
     "C:\\Users\\A l e x a n d r e\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\A l e x a n d r e\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\A l e x a n d r e\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
+    "C:\\Users\\A l e x a n d r e\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\A l e x a n d r e\\.nuget\\packages\\rbush\\4.0.0\\rbush.4.0.0.nupkg.sha512",
     "C:\\Users\\A l e x a n d r e\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
     "C:\\Users\\A l e x a n d r e\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",

@@ -52,8 +52,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/A l e x a n d r e/source/repos/EmprestimosDeLivros/EmprestimosDeLivros/Views/Login/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+[C:/Users/A l e x a n d r e/source/repos/EmprestimosDeLivros/EmprestimosDeLivros/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/A l e x a n d r e/source/repos/EmprestimosDeLivros/EmprestimosDeLivros/Views/Login/Registrar.cshtml]
@@ -62,6 +62,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/A l e x a n d r e/source/repos/EmprestimosDeLivros/EmprestimosDeLivros/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/A l e x a n d r e/source/repos/EmprestimosDeLivros/EmprestimosDeLivros/Views/Shared/_LayoutDeslogada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREZXNsb2dhZGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/A l e x a n d r e/source/repos/EmprestimosDeLivros/EmprestimosDeLivros/Views/Shared/_ValidationScriptsPartial.cshtml]

@@ -179,3 +179,4 @@ C:\Users\A l e x a n d r e\source\repos\EmprestimosDeLivros\EmprestimosDeLivros\
 C:\Users\A l e x a n d r e\source\repos\EmprestimosDeLivros\EmprestimosDeLivros\bin\Debug\net8.0\RBush.dll
 C:\Users\A l e x a n d r e\source\repos\EmprestimosDeLivros\EmprestimosDeLivros\bin\Debug\net8.0\SixLabors.Fonts.dll
 C:\Users\A l e x a n d r e\source\repos\EmprestimosDeLivros\EmprestimosDeLivros\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\A l e x a n d r e\source\repos\EmprestimosDeLivros\EmprestimosDeLivros\bin\Debug\net8.0\Newtonsoft.Json.dll
