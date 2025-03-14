@@ -1,4 +1,5 @@
 using EmprestimosDeLivros.Data;
+using EmprestimosDeLivros.Services.EmprestimoService;
 using EmprestimosDeLivros.Services.LoginServices;
 using EmprestimosDeLivros.Services.SenhaService;
 using EmprestimosDeLivros.Services.SessaoService;
@@ -18,6 +19,7 @@ builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 builder.Services.AddScoped<ILoginInterface, LoginService>();
 builder.Services.AddScoped<ISenhaInterface, SenhaService>();
 builder.Services.AddScoped<ISessaoInterface, SessaoService>();
+builder.Services.AddScoped<IEmprestimoInterface, EmprestimoService>();
 
 builder.Services.AddSession(options =>
 {
